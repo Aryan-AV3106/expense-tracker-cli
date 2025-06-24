@@ -1,1 +1,1 @@
-23.0,clothes,gift
+23.0,Clothes,Gift

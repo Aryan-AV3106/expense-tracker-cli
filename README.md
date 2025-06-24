@@ -1,16 +1,29 @@
-# Expense Tracker
+#  Expense Tracker (Python CLI Project)
 
-This is a simple python based code to track your daily expenses.
+Hello, I'm Aryan, a first-year Computer Science student at UAlbany.
+This is a simple command-line **Python Expense Tracker** that helps you log daily expenses by category and note.  
+This is one of my first Python projects — a simple, terminal-based tracker to log your daily spending in a .txt file.
 
-This is my first beginner level python project. 
 
-# Features
+---
 
-- Add an expense with date, amount, category, and note
-- View all past expenses
-- See total amount spent
+## 🧠 What it does
 
-# Skills Used
-- Python basics
-- File I/O
-- CLI interaction
+- Lets you add an expense (amount + category + note)
+- Shows you all your saved expenses
+- Calculates the total amount you’ve spent
+
+Everything is saved in a simple .txt file — so even if you close the program, your data’s still there next time.
+
+---
+
+## 🧪 What I learned
+
+- How to read and write files in Python
+- How to build menu-based CLI apps
+- Basic error handling (so it doesn’t crash if you enter something weird)
+- That even simple projects take way more polishing than you expect 😅
+
+---
+
+
